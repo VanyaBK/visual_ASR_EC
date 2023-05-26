@@ -1,4 +1,4 @@
-# visual_ASR_EC
+# Visual_ASR_EC
 Dataset for the task of visual ASR Error Correction.
 
 The features folder containes the image features of both train and test datasets.
