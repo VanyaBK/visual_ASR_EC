@@ -1,9 +1,0 @@
-# system
-requests
-tqdm
-
-# youtube
-yt-dlp
-opencv-python
-pydub
-ffprobe
